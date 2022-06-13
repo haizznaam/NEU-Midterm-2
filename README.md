@@ -1,3 +1,3 @@
 # NEU-Midterm-2
 source:  dseb63
-C Programming by learner 25
+#Subject: Dseb 63 C programing code 1
